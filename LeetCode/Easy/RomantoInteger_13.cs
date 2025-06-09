@@ -1,8 +1,6 @@
-﻿
-
-namespace LeetCode.Easy
+﻿namespace LeetCode.Easy
 {
-  internal class RomantoInteger_13
+  public class RomantoInteger_13
   {
     //I 1
     //V 5
